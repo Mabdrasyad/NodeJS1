@@ -1,0 +1,20 @@
+{
+  "name": "nodejs1",
+  "version": "1.0.0",
+  "description": "simple serial port",
+  "main": "https://github.com/Mabdrasyad/NodeJS1.git",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "nodejs1"
+  },
+  "keywords": [
+    "arduino",
+    "serialport",
+    "aptrg"
+  ],
+  "author": "M A RASYAD",
+  "license": "ISC"
+}
